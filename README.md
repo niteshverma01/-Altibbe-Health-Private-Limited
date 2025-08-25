@@ -1,8 +1,10 @@
+## 🌐 Live Demo
+
+Visit the live demo: [Hedamo Product Showcase](https://polite-sable-e94099.netlify.app/)
 # Hedamo Product Showcase
 
 A modern product showcase application built with Next.js 13+ and Tailwind CSS, featuring a card-based modular design inspired by Samsung Weather's interface.
 
-![Project Preview](public/preview.png)
 
 ## 🌟 Features
 
@@ -41,7 +43,7 @@ A modern product showcase application built with Next.js 13+ and Tailwind CSS, f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hedamo-showcase.git
+git clone https://github.com/niteshverma01/-Altibbe-Health-Private-Limited.git
 cd hedamo-showcase
 ```
 
@@ -131,7 +133,7 @@ The application is fully responsive across:
 
 ## 🌐 Live Demo
 
-Visit the live demo: [Hedamo Product Showcase](https://your-demo-link.vercel.app)
+Visit the live demo: [Hedamo Product Showcase](https://polite-sable-e94099.netlify.app/)
 
 ## 📝 License
 
